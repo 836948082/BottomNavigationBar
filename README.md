@@ -23,16 +23,20 @@
  */
 
  MODE_FIXED+BACKGROUND_STYLE_STATIC效果
- ![effect_1]()
+
+ ![effect_1](https://github.com/836948082/BottomNavigationBar/blob/master/image/effect_1.png)
 
  MODE_FIXED+BACKGROUND_STYLE_RIPPLE效果
- ![effect_2]()
+
+ ![effect_2](https://github.com/836948082/BottomNavigationBar/blob/master/image/effect_2.png)
 
  MODE_SHIFTING+BACKGROUND_STYLE_STATIC效果
- ![effect_3]()
+
+ ![effect_3](https://github.com/836948082/BottomNavigationBar/blob/master/image/effect_3.png)
 
  MODE_SHIFTING+BACKGROUND_STYLE_RIPPLE效果
- ![effect_4]()
+
+ ![effect_4](https://github.com/836948082/BottomNavigationBar/blob/master/image/effect_4.png)
 
 # 添加依赖
   compile 'com.ashokvarma.android:bottom-navigation-bar:1.2.0'
